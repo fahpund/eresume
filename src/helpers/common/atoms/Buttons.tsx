@@ -23,7 +23,7 @@ export const TextButton = ({
   children: React.ReactNode | string;
   disabled?: boolean;
 }) => (
-  <Button variant="outlined" onClick={onClick} className="text-resume-900" disabled={disabled}>
+  <Button variant="outlined" onClick={onClick} className="text-resume-9080" disabled={disabled}>
     {children}
   </Button>
 );
