@@ -5,7 +5,7 @@ import HeaderTitle from '../atoms/HeaderTitle';
 
 const animation = {
   initial: { x: -25, opacity: 0 },
-  animate: { x: 0, opacity: 1 },
+  animate: { x: 0, opacity: 0 },
 };
 
 const EditHeaders = ({ onLinkClick }: { onLinkClick: (link: string) => void }) => {
