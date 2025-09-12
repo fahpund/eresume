@@ -15,7 +15,7 @@ export const headers: {
     title: 'Skills and expertise',
     component: SkillsLayout,
   },
-  education: { title: 'Education', component: EducationLayout },
+  education: { title: 'Educatio', component: EducationLayout },
   experience: { title: 'Experience', component: ExperienceLayout },
   activities: { title: 'Activities', component: ActivitiesLayout },
   volunteering: { title: 'Volunteering', component: VolunteeringLayout },
