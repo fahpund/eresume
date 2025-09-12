@@ -8,7 +8,7 @@ const animation = {
     height: '0',
     paddingTop: 0,
     paddingBottom: 0,
-    opacity: 0,
+    opacity: 1,
   },
 };
 
